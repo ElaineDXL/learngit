@@ -23,3 +23,5 @@ nsstringw飒飒大的按到
 我是施斌
 
 Git has a mutable index called stage.
+
+Git tracks changes.
